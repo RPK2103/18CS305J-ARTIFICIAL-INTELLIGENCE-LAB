@@ -7,4 +7,4 @@
 - Apply appropriate searching techniques to solve a real-world problem
 - Analyze the problem and infer new knowledge using suitable knowledge representation schemes 
 - Develop planning and apply learning algorithms on real-world problems <br>
-<img src="Syllabus/AI-LIST-OF-LAB-EXERCISES.pdf" alt="Experiment List"/>
+<img src="Syllabus/AI-LIST-OF-LAB-EXPERIMENTS.jpg" alt="Experiment List"/>
